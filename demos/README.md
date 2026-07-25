@@ -1,6 +1,6 @@
 ## 🎬 Video Demos
 
-This directory contains demonstration videos showcasing key components of the FIN 350 Portfolio Management project. The videos illustrate the analytical tools and interactive dashboard developed throughout the trading simulation on the Tunis Stock Exchange (BVMT).
+This directory contains demonstration videos showcasing key components of the FIN 350 Portfolio Management project. The videos illustrate the analytical tools and interactive dashboard developed throughout the real trading on the Tunis Stock Exchange (BVMT).
 
 ---
 
@@ -25,7 +25,7 @@ The video shows the script execution for a representative stock, illustrating ho
 
 **File:** `demos/portfolio_dashboard_demo.mp4`
 
-This demo showcases the interactive portfolio performance dashboard built to monitor and evaluate the simulated equity portfolio over the full trading period. Features demonstrated include:
+This demo showcases the interactive portfolio performance dashboard built to monitor and evaluate the real equity portfolio over the full trading period. Features demonstrated include:
 - Cumulative return tracking vs. BVMT benchmark
 - Portfolio weight visualization (pie chart, bar chart)
 - Risk metrics display: Sharpe ratio, portfolio beta, standard deviation
