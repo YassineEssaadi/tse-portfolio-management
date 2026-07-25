@@ -1,1 +1,170 @@
-IyDwn5OIIEVxdWl0eSBQb3J0Zm9saW8gTWFuYWdlbWVudCDigJQgVHVuaXMgU3RvY2sgRXhjaGFuZ2UKIyMjIEZJTiAzNTAgRmluYW5jaWFsIE1hcmtldHMgUHJvamVjdCB8IFRvcC1Eb3duIEludmVzdG1lbnQgU3RyYXRlZ3kKClshW1B5dGhvbl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9BbmFseXNpcy1QeXRob24lMjAlN0MlMjBFeGNlbC0zNzc2QUI/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1weXRob24pXShodHRwczovL3d3dy5weXRob24ub3JnLykKWyFbRmluYW5jZV0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9Eb21haW4tUG9ydGZvbGlvJTIwTWFuYWdlbWVudC1icmlnaHRncmVlbj9zdHlsZT1mbGF0LXNxdWFyZSldKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL1BvcnRmb2xpb19tYW5hZ2VtZW50KQpbIVtDQVBNXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL01vZGVsLUNBUE0lMjAlN0MlMjBNYXJrb3dpdHotYmx1ZT9zdHlsZT1mbGF0LXNxdWFyZSldKGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0NhcGl0YWxfYXNzZXRfcHJpY2luZ19tb2RlbCkKWyFbVFNFXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL01hcmtldC1UdW5pcyUyMFN0b2NrJTIwRXhjaGFuZ2Utb3JhbmdlP3N0eWxlPWZsYXQtc3F1YXJlKV0oaHR0cHM6Ly93d3cuYnZtdC5jb20udG4vKQpbIVtBY2FkZW1pY10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9JbnN0aXR1dGlvbi1UdW5pcyUyMEJ1c2luZXNzJTIwU2Nob29sLXJlZD9zdHlsZT1mbGF0LXNxdWFyZSldKGh0dHBzOi8vd3d3LnRicy51LXR1bmlzLnRuLykKWyFbTGljZW5zZTogTUlUXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0xpY2Vuc2UtTUlULXllbGxvdy5zdmc/c3R5bGU9ZmxhdC1zcXVhcmUpXShodHRwczovL29wZW5zb3VyY2Uub3JnL2xpY2Vuc2VzL01JVCkKCj4gKipDb3Vyc2U6KiogRklOIDM1MCDigJMgRmluYW5jaWFsIE1hcmtldHMgfCAqKkluc3RpdHV0aW9uOioqIFR1bmlzIEJ1c2luZXNzIFNjaG9vbCB8ICoqWWVhcjoqKiAyMDI14oCTMjAyNiAgCj4gKipBY2FkZW1pYyBTdXBlcnZpc29yOioqIERyLiBFeW1lbiBFcnJhaWVzIHwgKipQcm9mZXNzaW9uYWwgU3VwZXJ2aXNvcjoqKiBNci4gUmFtemkgSmVyYmkKCi0tLQoKIyMg8J+TiyBUYWJsZSBvZiBDb250ZW50cwoKLSBbT3ZlcnZpZXddKCNvdmVydmlldykKLSBbSW52ZXN0bWVudCBQcm9jZXNzXSgjaW52ZXN0bWVudC1wcm9jZXNzKQotIFtNYWNyb2Vjb25vbWljIEFuYWx5c2lzXSgjbWFjcm9lY29ub21pYy1hbmFseXNpcykKLSBbU3RvY2sgU2VsZWN0aW9uXSgjc3RvY2stc2VsZWN0aW9uKQotIFtQb3J0Zm9saW8gQ29uc3RydWN0aW9uXSgjcG9ydGZvbGlvLWNvbnN0cnVjdGlvbikKLSBbVGVjaG5pY2FsIEFuYWx5c2lzXSgjdGVjaG5pY2FsLWFuYWx5c2lzKQotIFtQZXJmb3JtYW5jZSBFdmFsdWF0aW9uXSgjcGVyZm9ybWFuY2UtZXZhbHVhdGlvbikKLSBbUmVwb3NpdG9yeSBTdHJ1Y3R1cmVdKCNyZXBvc2l0b3J5LXN0cnVjdHVyZSkKLSBbSG93IHRvIFJlcHJvZHVjZV0oI2hvdy10by1yZXByb2R1Y2UpCi0gW0F1dGhvcnNdKCNhdXRob3JzKQoKLS0tCgojIyDwn5SMIE92ZXJ2aWV3CgpUaGlzIHByb2plY3Qgc2ltdWxhdGVzIHRoZSBjb21wbGV0ZSBleHBlcmllbmNlIG9mIGEgKipqdW5pb3IgZXF1aXR5IHRyYWRlcioqIGNvbnN0cnVjdGluZyBhbmQgbWFuYWdpbmcgYSByZWFsIHBvcnRmb2xpbyBvbiB0aGUgKipUdW5pcyBTdG9jayBFeGNoYW5nZSAoVFNFL0JWTVQpKiogb3ZlciBhICoqMy1tb250aCBpbnZlc3RtZW50IGhvcml6b24qKi4gVGhlIHByb2plY3QgYXBwbGllcyBjb3JlIGZpbmFuY2lhbCB0aGVvcmllcyDigJQgZnJvbSBtYWNyb2Vjb25vbWljIGFuYWx5c2lzIHRvIE1vZGVybiBQb3J0Zm9saW8gVGhlb3J5IOKAlCBpbiBhIHN0cnVjdHVyZWQsIG11bHRpLXN0YWdlIGludmVzdG1lbnQgcHJvY2Vzcy4KCioqS2V5IEhpZ2hsaWdodHM6KioKLSDwn4emICoqQnJva2VyOioqIFR1bmlzaWUgVmFsZXVycyAobmVnb3RpYXRlZCBmZWU6IDAuMiUgdnMuIHN0YW5kYXJkIDAuNiUpCi0g8J+SsCAqKkNhcGl0YWw6KiogNDA2LDkxMiBUTkQgKGludmVzdGVkOiAzNzMsNjIwIFRORCkKLSDwn5OKICoqVW5pdmVyc2U6KiogODAgVFNFLWxpc3RlZCBzdG9ja3Mg4oaSIHNjcmVlbmVkIHRvIDIwIOKGkiBmaW5hbCBwb3J0Zm9saW8gb2YgMTAKLSDwn4+vICoqT2JqZWN0aXZlOioqIE1heGltaXplIHJpc2stYWRqdXN0ZWQgcmV0dXJucyBvdmVyIDMgbW9udGhzCgotLS0KCiMjIPCfkYQgSW52ZXN0bWVudCBQcm9jZXNzCgpUaGUgcHJvamVjdCBmb2xsb3dzIGEgcmlnb3JvdXMgKio5LXN0ZXAgc3RydWN0dXJlZCBpbnZlc3RtZW50IHByb2Nlc3MqKjoKCmBgYApTdGVwIDEgJiAyICDihpIgIEJyb2tlciBTZWxlY3Rpb24gJiBBY2NvdW50IFNldHVwClN0ZXAgMyAgICAgIOKGkiAgTWFjcm9lY29ub21pYyAmIFNlY3RvciBBbmFseXNpcwpTdGVwIDQgICAgICDihpIgIEFkanVzdGVkIFJldHVybiBDYWxjdWxhdGlvbnMgKDEwLXllYXIgaGlzdG9yaWNhbCBkYXRhKQpTdGVwIDUgICAgICDihpIgIFNob3J0bGlzdGluZzogODAgaOKGkiAyMCDihpIgMTAgc3RvY2tzClN0ZXAgNiAgICAgIOKGkiAgQ0FQTSAmIE1hcmtvd2l0eiBQb3J0Zm9saW8gT3B0aW1pemF0aW9uClN0ZXAgNyAgICAgIOKGkiAgTWFya2V0IEVudHJ5IFN0cmF0ZWd5ICYgT3JkZXIgRXhlY3V0aW9uClN0ZXAgOCAgICAgIOKGkiAgUG9ydGZvbGlvIFJlYmFsYW5jaW5nIERlY2lzaW9ucwpTdGVwIDkgICAgICDihpIgIFBlcmZvcm1hbmNlIEV2YWx1YXRpb24gJiBSZXR1cm4gQ2FsY3VsYXRpb25zCmBgYAoKLS0tCgojIyDwn4yNIE1hY3JvZWNvbm9taWMgQW5hbHlzaXMKCiMjIyBUdW5pc2lhJ3MgRWNvbm9taWMgTGFuZHNjYXBlICgyMDI1KQoKQSBjb21wcmVoZW5zaXZlICoqdG9wLWRvd24gbWFjcm9lY29ub21pYyBhbmFseXNpcyoqIG9mIFR1bmlzaWEgd2FzIGNvbmR1Y3RlZCB0byBndWlkZSBzZWN0b3IgYWxsb2NhdGlvbjoKCnwgSW5kaWNhdG9yIHwgVmFsdWUgfCBJbXBsaWNhdGlvbiB8CnwtLS18LS0tfC0tLXwKfCBSZWFsIEdEUCBHcm93dGggKFEyIDIwMjUpIHwgKiorMy4xNiUgWW9ZKiogfCBCcm9hZCBidXQgbmFzY2VudCByZWNvdmVyeSB8CnwgTm9taW5hbCBHRFAgR3Jvd3RoIHwgKzE2LjU0JSBZb1kgfCBJbmZsYXRpb24tZHJpdmVuLCBub3Qgdm9sdW1lIHwKfCBJbnZlc3RtZW50LXRvLUdEUCBSYXRpbyB8ICoqNy45JSoqICgyMDI0KSB8IENyaXRpY2FsIGxvdyDigJQgY2FwaXRhbCBlcm9zaW9uIHwKfCBUcmFkZSBEZWZpY2l0IHwgLTIyLjklIG9mIEdEUCB8IEhpZ2ggaW1wb3J0IGRlcGVuZGVuY2UgfAp8IFVuZW1wbG95bWVudCB8IH4xNeKAkzE2JSB8IFN0cnVjdHVyYWwgc3RhZ25hdGlvbiB8CnwgSW5mbGF0aW9uIChDUEkpIHwgfjUuNSUgKDIwMjUpIHwgTW9kZXJhdGluZyBidXQgZWxldmF0ZWQgfAp8IEFncmljdWx0dXJhbCBHcm93dGggfCAqKis5Ljg0JSBZb1kqKiB8IFN0cm9uZ2VzdCBzZWN0b3IgfAoKIyMjIFNlY3RvciBDeWNsZSBQb3NpdGlvbmluZwoKfCBTZWN0b3IgfCBDeWNsZSBQaGFzZSB8IEludmVzdG1lbnQgU3RhbmNlIHwKfC0tLXwtLS18LS0tfAp8ICoqQ29uc3VtZXIgU3RhcGxlcyoqIHwgRGVmZW5zaXZlIEV4cGFuc2lvbiB8IOKchSBPdmVyd2VpZ2h0IHwKfCAqKkV4cG9ydC1PcmllbnRlZCBJbmR1c3RyaWFscyoqIHwgRWFybHkgUmVjb3ZlcnkgfCDinIUgT3ZlcndlaWdodCB8CnwgKipCYW5raW5nIChzZWxlY3RpdmUpKiogfCBMYXRlIFJlY292ZXJ5IHwg4pyFIFNlbGVjdGl2ZSB8CnwgKipBZ3JpY3VsdHVyZSAvIEFncm8tSW5kdXN0cnkqKiB8IEV4cGFuc2lvbiB8IOKchSBPdmVyd2VpZ2h0IHwKfCAqKkNvbnN1bWVyIERpc2NyZXRpb25hcnkqKiB8IFN0YWduYXRpb24gfCDinowgVW5kZXJ3ZWlnaHQgfAp8ICoqRW5lcmd5KiogfCBTdHJ1Y3R1cmFsIENvbnRyYWN0aW9uIHwg4p6MIFVuZGVyd2VpZ2h0IHwKfCAqKkNhcGl0YWwtSW50ZW5zaXZlIC8gQ29uc3RydWN0aW9uKiogfCBMYWdnaW5nIHwg4pqgIFNlbGVjdGl2ZSB8CgotLS0KCiMjIPCfk4ogU3RvY2sgU2VsZWN0aW9uCgojIyMgU2VsZWN0aW9uIEZyYW1ld29yayAoVG9wLURvd24sIDQtTGF5ZXIgRmlsdGVyKQoKYGBgCjgwIFRTRS1MaXN0ZWQgU3RvY2tzCiAgICAgICAgfAogICAgICAgIOKGkyBMYXllciAxOiBNYXJrZXQgQ2FwaXRhbGl6YXRpb24gKHN0YWJpbGl0eSBmaWx0ZXIpCiAgICAgICAgfAogICAgICAgIOKGkyBMYXllciAyOiBBdmVyYWdlIFRyYWRpbmcgVm9sdW1lIChsaXF1aWRpdHkgZmlsdGVyKQogICAgICAgIHwKICAgICAgICDihpMgTGF5ZXIgMzogRnVuZGFtZW50YWwgQW5hbHlzaXMKICAgICAgICB8ICAg4oCiIFJPRSwgRVBTLCBOZXQgUHJvZml0IE1hcmdpbiwgRVBTIEdyb3d0aAogICAgICAgIHwgICDigKIgRGVidC10by1FcXVpdHkgUmF0aW8sIFAvRSBSYXRpbwogICAgICAgIHwgICDigKIgTWluLU1heCBOb3JtYWxpemF0aW9uIGZvciBjcm9zcy1zZWN0b3IgY29tcGFyaXNvbgogICAgICAgIHwKICAgICAgICDihpMgTGF5ZXIgNDogVGVjaG5pY2FsIEFuYWx5c2lzIChlbnRyeSB0aW1pbmcpCiAgICAgICAgfCAgIOKAoiBNQUNELCBSU0ktMTQsIE9CViwgTW92aW5nIEF2ZXJhZ2VzCiAgICAgICAgfCAgIOKAoiBCcmVha291dCBwYXR0ZXJucywgdHJlbmQgY29uZmlybWF0aW9uCiAgICAgICAgfAogICAgICAgIOKGkwogICAyMCBTaG9ydGxpc3RlZCBTdG9ja3Mg4oaSIEZpbmFsIDEwLVN0b2NrIFBvcnRmb2xpbwpgYGAKCiMjIyBGaW5hbCAxMC1TdG9jayBQb3J0Zm9saW8KCnwgIyB8IENvbXBhbnkgfCBTZWN0b3IgfCBNYXJrZXQgQ2FwIChUTkQpIHwgQXZnLiBWb2x1bWUgfCBTZWxlY3Rpb24gUmF0aW9uYWxlIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IDEgfCAqKk9ORSBURUNIIENIT0xESU5HKiogfCBJbmR1c3RyaWFscyB8IDcxNS42TSB8IDI2LDE3MiB8IEhpZ2hlc3QgY29udmljdGlvbjogbGlxdWlkaXR5ICsgZnVuZGFtZW50YWxzICsgZXhwb3J0IHwKfCAyIHwgKipQT1VMSU5BIEdST1VQIEhPTERJTkcqKiB8IENvbnN1bWVyIEdvb2RzIHwgMiw2NTBNIHwgNDEsNDAzIHwgUG9ydGZvbGlvIGNvcm5lcnN0b25lOiBkZWZlbnNpdmUgKyBtYXNzaXZlIHNjYWxlIHwKfCAzIHwgKipCQU5RVUUgQVRUSUpBUkkgREUgVFVOSVNJRSoqIHwgQmFua2luZyB8IDIsNjEwTSB8IDUsODA3IHwgT3B0aW1hbCByaXNrLXJldHVybiBpbiBiYW5raW5nIHNlY3RvciB8CnwgNCB8ICoqVU5JTUVEKiogfCBIZWFsdGhjYXJlIHwgMjYyLjRNIHwgMzYsOTQ4IHwgRGVmZW5zaXZlIGxlYWRlciArIHN0cm9uZyB1cHRyZW5kIHwKfCA1IHwgKipDQVJUSEFHRSBDRU1FTlQqKiB8IENvbnN0cnVjdGlvbiB8IDY1MC4xTSB8IDEwOCw5MDAgfCBIaWdoZXN0IGxpcXVpZGl0eSBhbmNob3IgaW4gcG9ydGZvbGlvIHwKfCA2IHwgKipUQVdBU09MIEdST1VQIEhPTERJTkcqKiB8IFRlbGVjb20gfCA2NC44TSB8IDI4LDg5OSB8IEJyZWFrb3V0IGZyb20gbG9uZy10ZXJtIGNvbnNvbGlkYXRpb24gfAp8IDcgfCAqKlNNQVJUIFRVTklTSUUqKiB8IERpc3RyaWJ1dGlvbiB8IDE3M00gfCA0LDg2MSB8IENsZWFuIGJyZWFrb3V0IHJldGVzdCArIHRyZW5kIGNvbnRpbnVhdGlvbiB8CnwgOCB8ICoqRVVSTy1DWUNMRVMqKiB8IENvbnN1bWVyIEdvb2RzIHwgMTI5TSB8IDcsNDQ0IHwgRGVzY2VuZGluZyB3ZWRnZSBicmVha291dCBvbiBoaWdoIHZvbHVtZSB8CnwgOSB8ICoqTUFHSFJFQklBIFZJRSoqIHwgSW5zdXJhbmNlIHwgMTk3LjVNIHwgMjcgfCBDb2lsaW5nIHBhdHRlcm4gbmVhciBoaWdocyDihpIgaW1taW5lbnQgYnJlYWtvdXQgfAp8IDEwIHwgKipFU1NPVUVOQSB8IENvbnN0cnVjdGlvbiB8IDExLjlNIHwgMywzNTEgfCBNdWx0aS15ZWFyIGJhc2UgYnJlYWtvdXQg4oCUIGhpZ2gtcmV3YXJkIGN5Y2xpY2FsIHwKCi0tLQoKIyMg8J+TkCBQb3J0Zm9saW8gQ29uc3RydWN0aW9uCgojIyMgQ0FQTSBBbmFseXNpcwoKRm9yIGVhY2ggc3RvY2ssIHRoZSAqKkNhcGl0YWwgQXNzZXQgUHJpY2luZyBNb2RlbCoqIHdhcyBhcHBsaWVkOgoKYGBgCkUoUuG1oikgPSBSZiArIM6y4bWhIMOXIFtFKFJtKSAtIFJmXQpgYGAKCldoZXJlOgotIGBSZmAgPSBSaXNrLWZyZWUgcmF0ZSAoVHVuaXNpYW4gVHJlYXN1cnkgcmF0ZSkKLSBgzrLhtaFgID0gU3RvY2sgYmV0YSAoc2Vuc2l0aXZpdHkgdG8gVFNFIG1hcmtldCBpbmRleCkKLSBgRShSbSkgLSBSZmAgPSBNYXJrZXQgcmlzayBwcmVtaXVtCgojIyMgTWFya293aXR6IFBvcnRmb2xpbyBPcHRpbWl6YXRpb24KClRoZSAqKk1lYW4tVmFyaWFuY2UgT3B0aW1pemF0aW9uKiogZnJhbWV3b3JrIHdhcyBhcHBsaWVkIHRvIGNvbnN0cnVjdCB0aGUgZWZmaWNpZW50IGZyb250aWVyOgoKLSAqKk9iamVjdGl2ZToqKiBNYXhpbWl6ZSBTaGFycGUgUmF0aW8gKHJpc2stYWRqdXN0ZWQgcmV0dXJuKQotICoqQ29uc3RyYWludHM6KiogQnVkZ2V0IGNvbnN0cmFpbnQgKDQwNiw5MTIgVE5EKSwgbm8gc2hvcnQtc2VsbGluZwotICoqT3V0cHV0OioqIE9wdGltYWwgcG9ydGZvbGlvIHdlaWdodHMgZm9yIGVhY2ggb2YgdGhlIDEwIHN0b2Nrcwotb**EGF0YToqKiAxMC15ZWFyIGhpc3RvcmljYWwgZGFpbHkgcmV0dXJucyBmcm9tIEJWTVQgKDIwMjDigJMyMDI0KQoKLS0tCgojIyDwn5OJIFRlY2huaWNhbCBBbmFseXNpcwoKIyMjIEluZGljYXRvcnMgVXNlZAoKfCBJbmRpY2F0b3IgfCBQdXJwb3NlIHwgQXBwbGljYXRpb24gfAp8LS0tfC0tLXwtLS18CnwgKipSU0ktMTQqKiB8IE1vbWVudHVtIC8gb3ZlcmJvdWdodC1vdmVyc29sZCB8IEVudHJ5IHRpbWluZyB8CnwgKipNQUNEKiogfCBUcmVuZCBkaXJlY3Rpb24gJiBtb21lbnR1bSB8IFNpZ25hbCBjb25maXJtYXRpb24gfAp8ICoqT0JWIChPbi1CYWxhbmNlIFZvbHVtZSkqKiB8IFZvbHVtZS1wcmljZSByZWxhdGlvbnNoaXAgfCBJbnN0aXR1dGlvbmFsIGludGVyZXN0IHwKfCAqKlNpbXBsZSBNb3ZpbmcgQXZlcmFnZXMqKiB8IFRyZW5kIGlkZW50aWZpY2F0aW9uIHwgU3VwcG9ydC9yZXNpc3RhbmNlIHwKfCAqKkJyZWFrb3V0IFBhdHRlcm5zKiogfCBQcmljZSBjb25zb2xpZGF0aW9uIGV4aXRzIHwgRW50cnkgdHJpZ2dlcnMgfAoKLS0tCgojIyDwn5OKIFBlcmZvcm1hbmNlIEV2YWx1YXRpb24KClBvcnRmb2xpbyBwZXJmb3JtYW5jZSB3YXMgZXZhbHVhdGVkIGFnYWluc3QgcmVsZXZhbnQgYmVuY2htYXJrcyB1c2luZzoKCi0gKipBYnNvbHV0ZSBSZXR1cm4qKiDigJQgVG90YWwgcG9ydGZvbGlvIHJldHVybiBvdmVyIDMtbW9udGggaG9yaXpvbgotICoqUmlzay1BZGp1c3RlZCBNZXRyaWNzKiogIOKAlCBTaGFycGUgUmF0aW8sIHBvcnRmb2xpbyB2b2xhdGlsaXR5Ci0gKipCZW5jaG1hcmsgQ29tcGFyaXNvbioqIOKAlCB2cy4gVFNFIFRVTklOREVYCi0gKipSZWJhbGFuY2luZyBBbmFseXNpcyoqIOKAlCBTdGVwIDggZGVjaXNpb25zIGFuZCB0aGVpciBpbXBhY3QKCi0tLQoKIyMg8J+TgSBSZXBvc2l0b3J5IFN0cnVjdHVyZQoKYGBgCnRzZS1wb3J0Zm9saW8tbWFuYWdlbWVudC8K4pSCCuKUnOKUgOKUgCDwn5OEIFJFQURNRSubWQK4pSc4pSA4pSAIPCfk4QgcmVwb3J0LwrilIIgICDilJTilIDilIAgZmluMzUwX3Byb2plY3RfcmVwb3J0LnBkZiAgICAgICAgIyBGdWxsIGFjYWRlbWljIHJlcG9ydArilIIK4pSc4pSA4pSAIPCfk4ogZGF0YS8K4pSCICAg4pSc4pSA4pSAIHJhdy8K4pSCICAg4pSCICAg4pSc4pSA4pSAIHRzZV9zdG9ja19wcmljZXMueGxzeCAgICAgICAgIyBIaXN0b3JpY2FsIHByaWNlcyAoQlZNVCkK4pSCICAg4pSCICAg4pSc4pSA4pSAIGZpbmFuY2lhbF9zdGF0ZW1lbnRzLyAgICAgICAgIyBBbm51YWwgcmVwb3J0cyAyMDIwLTIwMjQK4pSCICAg4pSCICAg4pSU4pSA4pSAIG1hY3JvX2RhdGFfdHVuaXNpYS54bHN4ICAgICAgIyBJTlMsIEJDVCwgSU1GIGRhdGEK4pSCICAg4pSU4pSA4pSAIHByb2Nlc3NlZC8K4pSCICAgICAgIOKUnOKUgOKUgCBkYWlseV9yZXR1cm5zLnhsc3ggICAgICAgICAgICMgQWRqdXN0ZWQgZGFpbHkgcmV0dXJucwrilIIgICAgICAg4pSc4pSA4pSAIGZ1bmRhbWVudGFsX3Njb3Jlcy54bHN4ICAgICAgIyBOb3JtYWxpemVkIHNjb3JpbmcgbWF0cml4CuKUgiAgICAgICDilJTilIDilIAgcG9ydGZvbGlvX3dlaWdodHMueGxzeCAgICAgICAjIE1hcmtvd2l0eiBvcHRpbWFsIHdlaWdodHMKCi0tLQoKIyMg4pa2IEhvdyB0byBSZXByb2R1Y2UKCiMjIyBNYXJrb3dpdHogT3B0aW1pemF0aW9uIEV4YW1wbGUKCmBgYHB5dGhvbgpmcm9tIHB5cGZvcHQgaW1wb3J0IEVmZmljaWVudEZyb250aWVyLCByaXNrX21vZGVscywgZXhwZWN0ZWRfcmV0dXJucwppbXBvcnQgcGFuZGFzIGFzIHBkCgojIExvYWQgaGlzdG9yaWNhbCByZXR1cm5zCnByaWNlcyA9IHBkLnJlYWRfZXhjZWwoJ2RhdGEvcHJvY2Vzc2VkL2RhaWx5X3JldHVybnMueGxzeCcsIGluZGV4X2NvbD0wKQoKIyBDb21wdXRlIGV4cGVjdGVkIHJldHVybnMgYW5kIGNvdmFyaWFuY2UgbWF0cml4Cm11ID0gZXhwZWN0ZWRfcmV0dXJucy5tZWFuX2hpc3RvcmljYWxfcmV0dXJuKHByaWNlcykKUyA9IHJpc2tfbW9kZWxzLnNhbXBsZV9jb3YocHJpY2VzKQoKIyBPcHRpbWl6ZSBmb3IgbWF4aW11bSBTaGFycGUgcmF0aW8KZWYgPSBFZmZpY2llbnRGcm9udGllcihtdSwgUykKd2VpZ2h0cyA9IGVmLm1heF9zaGFycGUoKQpjbGVhbmVkX3dlaWdodHMgPSBlZi5jbGVhbl93ZWlnaHRzKCkKcHJpbnQoY2xlYW5lZF93ZWlnaHRzKQplZi5wb3J0Zm9saW9fcGVyZm9ybWFuY2UodmVyYm9zZT1UcnVlKQpgYGAKCi0tLQoKIyMg8J+RpSBBdXRob3JzCgp8IE5hbWUgfCBDb250cmlidXRpb24gfAp8LS0tfC0tLXwKfCAqKkFtaW5lIEJlc3NhYWQqKiB8IE1hY3JvZWNvbm9taWMgYW5hbHlzaXMsIENBUE0sIHBvcnRmb2xpbyBvcHRpbWl6YXRpb24sIHJlcG9ydCB3cml0aW5nIHwKfCAqKllhc3NpbmUgRXNzYWFkaSoqIHwgU2VjdG9yIGFuYWx5c2lzLCBmdW5kYW1lbnRhbCBzY29yaW5nLCB0ZWNobmljYWwgYW5hbHlzaXMsIHJlcG9ydCB3cml0aW5nIHwKfCAqKk1vaGFtZWQgQWRuZW4gR3VpcmF0KiogfCBTdG9jayBzZWxlY3Rpb24sIG9yZGVyIGV4ZWN1dGlvbiwgcGVyZm9ybWFuY2UgZXZhbHVhdGlvbiwgcmVwb3J0IHdyaXRpbmcgfAoKKipJbnN0aXR1dGlvbjoqKiBUdW5pcyBCdXNpbmVzcyBTY2hvb2wgIAoqKkNvdXJzZToqKiBGSU4gMzUwIOKAkyBGaW5hbmNpYWwgTWFya2V0cyAgCioqQWNhZGVtaWMgU3VwZXJ2aXNvcjoqKiBEci4gRXltZW4gRXJyYWllcyAgCioqUHJvZmVzc2lvbmFsIFN1cGVydmlzb3I6KiogTXIuIFJhbXppIEplcmJpICAKKipBY2FkZW1pYyBZZWFyOioqIDIwMjXigJMyMDI2CgotLS0KCiMjIPCfk5ogUmVmZXJlbmNlcwoKLSBNYXJrb3dpdHosIEguICgxOTUyKS4gUG9ydGZvbGlvIFNlbGVjdGlvbi4gKkpvdXJuYWwgb2YgRmluYW5jZSosIDcoMSksIDc34oCTOTEuCi0gU2hhcnBlLCBXLkYuICgxOTY0KS4gQ2FwaXRhbCBBc3NldCBQcmljZXM6IEEgVGhlb3J5IG9mIE1hcmtldCBFcXVpbGlicml1bS4gKkpvdXJuYWwgb2YgRmluYW5jZSosIDE5KDMpLCA0MjXigJM0NDIuCi0gRmFtYSwgRS5GLiAmIEZyZW5jaCwgSy5SLiAoMTk5MykuIENvbW1vbiBSaXNrIEZhY3RvcnMgaW4gdGhlIFJldHVybnMgb24gU3RvY2tzIGFuZCBCb25kcy4gKkpvdXJuYWwgb2YgRmluYW5jaWFsIEVjb25vbWljcyosIDMzKDEpLCAz4oCTNTYuCi0gV2lsZGVyLCBKLlcuICgxOTc4KS4gKk5ldyBDb25jZXB0cyBpbiBUZWNobmljYWwgVHJhZGluZyBTeXN0ZW1zKi4gVHJlbmQgUmVzZWFyY2guCgotLS0KCipUaGlzIHByb2plY3Qgd2FzIGNvbmR1Y3RlZCBhcyBwYXJ0IG9mIHRoZSBGSU4gMzUwIOKAkyBGaW5hbmNpYWwgTWFya2V0cyBjb3Vyc2UgYXQgVHVuaXMgQnVzaW5lc3MgU2Nob29sICgyMDI14oCTMjAyNikuIEFsbCB0cmFkaW5nIHdhcyBzaW11bGF0ZWQgZm9yIGFjYWRlbWljIHB1cnBvc2VzLioK
+# 📈 Equity Portfolio Management — Tunis Stock Exchange
+### FIN 350 Financial Markets Project | Top-Down Investment Strategy
+
+[![Python](https://img.shields.io/badge/Analysis-Python%20%7C%20Excel-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![Finance](https://img.shields.io/badge/Domain-Portfolio%20Management-brightgreen?style=flat-square)](https://en.wikipedia.org/wiki/Portfolio_management)
+[![CAPM](https://img.shields.io/badge/Model-CAPM%20%7C%20Markowitz-blue?style=flat-square)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
+[![TSE](https://img.shields.io/badge/Market-Tunis%20Stock%20Exchange-orange?style=flat-square)](https://www.bvmt.com.tn/)
+[![Academic](https://img.shields.io/badge/Institution-Tunis%20Business%20School-red?style=flat-square)](https://www.tbs.u-tunis.tn/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+> **Course:** FIN 350 – Financial Markets | **Institution:** Tunis Business School | **Year:** 2025–2026  
+> **Academic Supervisor:** Dr. Eymen Erraies | **Professional Supervisor:** Mr. Ramzi Jerbi
+
+---
+
+## 📋 Table of Contents
+
+- [Overview](#overview)
+- [Investment Process](#investment-process)
+- [Macroeconomic Analysis](#macroeconomic-analysis)
+- [Stock Selection](#stock-selection)
+- [Portfolio Construction](#portfolio-construction)
+- [Technical Analysis](#technical-analysis)
+- [Performance Evaluation](#performance-evaluation)
+- [Repository Structure](#repository-structure)
+- [How to Reproduce](#how-to-reproduce)
+- [Authors](#authors)
+
+---
+
+## 📌 Overview
+
+This project simulates the complete experience of a **junior equity trader** constructing and managing a real portfolio on the **Tunis Stock Exchange (TSE/BVMT)** over a **3-month investment horizon**.
+
+**Key Highlights:**
+- 🏦 **Broker:** Tunisie Valeurs (negotiated fee: 0.2% vs. standard 0.6%)
+- 💰 **Capital:** 406,912 TND (invested: 373,620 TND)
+- 📊 **Universe:** 80 TSE-listed stocks → screened to 20 → final portfolio of 10
+- 🎯 **Objective:** Maximize risk-adjusted returns over 3 months
+
+---
+
+## 🔄 Investment Process
+
+```
+Step 1 & 2   →  Broker Selection & Account Setup
+Step 3       →  Macroeconomic & Sector Analysis
+Step 4      →  Adjusted Return Calculations (10-year historical data)
+Step 5      →  Shortlisting: 80 -> 20 -> 10 stocks
+Step 6      →  CAPM & Markowitz Portfolio Optimization
+Step 7      →  Market Entry Strategy & Order Execution
+Step 8      →  Portfolio Rebalancing Decisions
+Step 9      →  Performance Evaluation & Return Calculations
+```
+
+---
+
+## 🌍 Macroeconomic Analysis
+
+| Indicator | Value | Implication |
+|---|---|---|
+| Real GDP Growth (Q2 2025) | **+3.16% YoY** | Broad but nascent recovery |
+| Investment-to-GDP Ratio | **7.9%** (2024) | Critical low — capital erosion |
+| Agricultural Growth | **+9.84% YoY** | Strongest sector |
+| Inflation (CPI) | ~5.5% (2025) | Moderating but elevated |
+
+---
+
+## 📊 The Final 10-Stock Portfolio
+
+| # | Company | Sector | Market Cap (TND) | Selection Rationale |
+|---|---|---|---|---|
+| 1 | **ONE TECH HOLDING** | Industrials | 715.6M | Highest conviction: liquidity + fundamentals + export |
+| 2 | **POULINA GROUP HOLDING** | Consumer Goods | 2,650M | Portfolio cornerstone: defensive + massive scale |
+| 3 | **BANQUE ATTIJARI DE TUNISIE** | Banking | 2,610M | Optimal risk-return in banking sector |
+| 4 | **UNIMED** | Healthcare | 262.4M | Defensive leader + strong uptrend |
+| 5 | **CARTHAGE CEMENT** | Construction | 650.1M | Highest liquidity anchor in portfolio |
+| 6 | **TAWASOL GROUP HOLDING** | Telecom | 64.8M | Breakout from long-term consolidation |
+| 7 | **SMART TUNISIE** | Distribution | 173M | Clean breakout retest + trend continuation |
+| 8 | **EURO-CYCLES** | Consumer Goods | 129M | Descending wedge breakout on high volume |
+| 9 | **MAGHREBIA VIE** | Insurance | 197.5M | Coiling pattern near highs → imminent breakout |
+| 10 | **ESSOUKNA** | Construction | 11.9M | Multi-year base breakout — high-reward cyclical |
+
+---
+
+## 📐 Portfolio Construction
+
+### CAPM Formula
+
+```
+E(Ri) = Rf + Beta_i x [E(Rm) - Rf]
+```
+
+### Markowitz Optimization Example
+
+```python
+from pypfopt import EfficientFrontier, risk_models, expected_returns
+import pandas as pd
+
+prices = pd.read_excel('data/processed/daily_returns.xlsx', index_col=0)
+mu = expected_returns.mean_historical_return(prices)
+S = risk_models.sample_cov(prices)
+ef = EfficientFrontier(mu, S)
+weights = ef.max_sharpe()
+print(ef.clean_weights())
+```
+
+---
+
+## 📁 Repository Structure
+
+```
+tse-portfolio-management/
+│
+├── README.md
+├── report/
+│   └── fin350_project_report.pdf
+│
+├── data/
+│   ├── raw/                             # Historical prices + financial statements
+│   └── processed/                      # Daily returns, scoring matrix, weights
+│
+├── analysis/
+│   ├── 01_macro_analysis.py
+│   ├── 02_sector_positioning.py
+│   ├── 03_fundamental_scoring.py
+│   ├── 04_technical_analysis.py
+│   ├── 05_capm.py
+│   ├── 06_markowitz_optimization.py
+│   ├── 07_portfolio_performance.py
+│   └── 08_rebalancing.py
+│
+├── figures/
+│   ├── macro/
+│   ├── technical/
+│   └── portfolio/
+│
+└── requirements.txt
+```
+
+---
+
+## ▶️ How to Reproduce
+
+```bash
+pip install -r requirements.txt
+git clone https://github.com/YOUR_USERNAME/tse-portfolio-management.git
+cd tse-portfolio-management
+python analysis/01_macro_analysis.py
+```
+
+---
+
+## 👥 Authors
+
+| Name | Contribution |
+|---|---|
+| **Amine Bessaad** | Macroeconomic analysis, CAPM, portfolio optimization |
+| **Yassine Essaadi** | Sector analysis, fundamental scoring, technical analysis |
+| **Mohamed Adnen Guirat** | Stock selection, order execution, performance evaluation |
+
+**Institution:** Tunis Business School  
+**Course:** FIN 350 – Financial Markets  
+**Academic Supervisor:** Dr. Eymen Erraies  
+**Professional Supervisor:** Mr. Ramzi Jerbi  
+**Academic Year:** 2025–2026
+
+---
+
+**Disclaimer:** All trading was simulated for academic purposes.
