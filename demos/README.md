@@ -17,7 +17,7 @@ This demo walks through the individual stock analysis pipeline built in Python. 
 
 The video shows the script execution for a representative stock, illustrating how the quantitative scoring model was applied consistently across all securities.
 
-> 📁 *File not yet rendered by GitHub — see upload instructions below.*
+> 📁 https://drive.google.com/file/d/1ag0U-dEuyqp3EkUX7x5Njra06SfeM7sC/view?usp=drive_link 
 
 ---
 
@@ -34,31 +34,5 @@ This demo showcases the interactive portfolio performance dashboard built to mon
 
 The dashboard was designed to replicate a professional portfolio management reporting tool adapted to the Tunisian market context.
 
-> 📁 *File not yet rendered by GitHub — see upload instructions below.*
+> 📁 https://drive.google.com/file/d/1VfRxRQJ1FZ8xQRe72y3bh6C4AZVxp1-a/view?usp=drive_link 
 
----
-
-### ⚠️ Note on File Size
-
-Both video files are large (> 100 MB) and **cannot be pushed via standard `git push`**. They were uploaded manually using one of the following methods:
-
-- **Git LFS (recommended for files > 100 MB):**
-  ```bash
-  git lfs install
-  git lfs track "*.mp4"
-  git add .gitattributes
-  git add demos/stock_analysis_demo.mp4
-  git add demos/portfolio_dashboard_demo.mp4
-  git commit -m "media: add video demos via Git LFS"
-  git push
-  ```
-
-- **GitHub Web Upload (for files up to 25 MB):**
-  Navigate to the `demos/` folder on GitHub → **Add file** → **Upload files**.
-
-- **GitHub Releases (alternative for large files):**
-  Upload the `.mp4` files as release assets under a tagged release (e.g., `v1.0`) — no size limit applies.
-
----
-
-*For questions about the project methodology or results, refer to the main [README.md](../README.md) or the full project report in [`report/`](../report/).*
