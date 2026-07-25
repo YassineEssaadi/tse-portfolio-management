@@ -33,21 +33,6 @@
 - **Investment Report Writing** — Professional-grade investment thesis documentation
 - **Regulatory Awareness** — CMF (Financial Market Council) compliance
 
----
-
-## 🏷️ Suggested GitHub Repository Names
-
-| Name | Style | Notes |
-|---|---|---|
-| `tse-portfolio-management` | Descriptive | ✅ Recommended — clear and professional |
-| `fin350-equity-portfolio` | Course-specific | Good for academic portfolio |
-| `markowitz-capm-tunisia` | Method-focused | Highlights quantitative methods |
-| `tunis-stock-exchange-analysis` | Market-focused | Good for visibility |
-| `top-down-portfolio-tse` | Strategy-focused | Highlights methodology |
-
-**Recommended:** `tse-portfolio-management`
-
----
 
 ## 📝 GitHub Repository Description
 
