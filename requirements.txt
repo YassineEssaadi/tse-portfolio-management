@@ -1,0 +1,6 @@
+pypfopt
+pandas
+numpy
+scipy
+matplotlib
+ta
