@@ -141,7 +141,7 @@ tse-portfolio-management/
 |-- technical-analysis/                      # technical analysis on the Tunisian market's stocks
 |-- markowitz-analysis/                      # Markowitz optimization models
 |-- stocks-daily-returns/                    # Daily returns data & calculations
-|-- Potfolio Dashboarding/                  # Portfolio dashboard scripts
+|-- Potfolio Dashboarding/                   # Portfolio dashboard scripts
 |-- report/
 |   |-- fin350_project_report.pdf            # Full academic report (PDF)
 |   |-- README.md                            # Report directory index
