@@ -133,17 +133,15 @@ tse-portfolio-management/
 |-- LICENSE
 |-- requirements.txt
 |-- .gitignore
-|-- data/
-|   |-- CAPM and Markovitz.xlsx              # CAPM & Markowitz optimization models
-|   |-- Company Ranking By Sector.xlsx       # Sector-based stock ranking
-|   |-- Fundamental Analysis and Scoring System.xlsx  # Fundamental scoring model
-|   |-- Macroeconomic Analysis.xlsx          # Macro indicators & sector analysis
-|   |-- Portfolio Return Track.xlsx          # Portfolio performance tracking
-|   |-- TAWASOL GH.xlsx                      # TAWASOL stock data
-|-- technical-analysis/                      # Python scripts: 10-stock technical analysis
+|-- 10 STOCKS MARKOWITZ/                     # 10 stocks selected for the portfolio along with the python scripts to analyze them
+|-- Company Ranking By Sector.xlsx           # Sector-based stock ranking
+|-- Fundamental Analysis and Scoring System.xlsx  # Fundamental scoring model
+|-- Macroeconomic Analysis.xlsx              # Macro indicators & sector analysis
+|-- Portfolio Return Track.xlsx              # Portfolio performance tracking
+|-- technical-analysis/                      # technical analysis on the Tunisian market's stocks
 |-- markowitz-analysis/                      # Markowitz optimization models
 |-- stocks-daily-returns/                    # Daily returns data & calculations
-|-- portfolio-dashboarding/                  # Portfolio dashboard scripts
+|-- Potfolio Dashboarding/                  # Portfolio dashboard scripts
 |-- report/
 |   |-- fin350_project_report.pdf            # Full academic report (PDF)
 |   |-- README.md                            # Report directory index
