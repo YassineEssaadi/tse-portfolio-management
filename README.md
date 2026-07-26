@@ -5,7 +5,7 @@
 [![Finance](https://img.shields.io/badge/Domain-Portfolio%20Management-brightgreen?style=flat-square)](https://en.wikipedia.org/wiki/Portfolio_management)
 [![CAPM](https://img.shields.io/badge/Model-CAPM%20%7C%20Markowitz-blue?style=flat-square)](https://en.wikipedia.org/wiki/Capital_asset_pricing_model)
 [![TSE](https://img.shields.io/badge/Market-Tunis%20Stock%20Exchange-orange?style=flat-square)](https://www.bvmt.com.tn/)
-[![Academic](https://img.shields.io/badge/Institution-Tunis%20Business%20School-red?style=flat-square)](https://www.tbs.u-tunis.tn/)
+[![Academic](https://img.shields.io/badge/Institution-Tunis%20Business%20School-red?style=flat-square)]([https://www.tbs.u-tunis.tn/](https://tunis-business-school.tn/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > **Course:** FIN 350 — Financial Markets | **Institution:** Tunis Business School | **Year:** 2025–2026
