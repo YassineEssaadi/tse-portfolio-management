@@ -95,7 +95,7 @@ E(Ri) = Rf + Beta_i x [E(Rm) - Rf]
 from pypfopt import EfficientFrontier, risk_models, expected_returns
 import pandas as pd
 
-prices = pd.read_excel('data/processed/daily_returns.xlsx', index_col=0)
+prices = pd.read_excel('data/Stocks Daily Returns.xlsx', index_col=0)
 mu = expected_returns.mean_historical_return(prices)
 S = risk_models.sample_cov(prices)
 ef = EfficientFrontier(mu, S)
@@ -131,16 +131,27 @@ tse-portfolio-management/
 |
 |-- README.md
 |-- LICENSE
+|-- requirements.txt
+|-- .gitignore
+|-- data/
+|   |-- CAPM and Markovitz.xlsx              # CAPM & Markowitz optimization models
+|   |-- Company Ranking By Sector.xlsx       # Sector-based stock ranking
+|   |-- Fundamental Analysis and Scoring System.xlsx  # Fundamental scoring model
+|   |-- Macroeconomic Analysis.xlsx          # Macro indicators & sector analysis
+|   |-- Portfolio Return Track.xlsx          # Portfolio performance tracking
+|   |-- TAWASOL GH.xlsx                      # TAWASOL stock data
+|-- technical-analysis/                      # Python scripts: 10-stock technical analysis
+|-- markowitz-analysis/                      # Markowitz optimization models
+|-- stocks-daily-returns/                    # Daily returns data & calculations
+|-- portfolio-dashboarding/                  # Portfolio dashboard scripts
 |-- report/
-|   |-- fin350_project_report.pdf       # Full academic report (PDF)
-|   |-- README.md                       # Report directory index
+|   |-- fin350_project_report.pdf            # Full academic report (PDF)
+|   |-- README.md                            # Report directory index
 |-- demos/
-    |-- README.md                       # Video demo index
-    |-- stock_analysis_demo.mp4         # Stock analysis demo (upload via Git LFS)
-    |-- portfolio_dashboard_demo.mp4    # Dashboard demo (upload via Git LFS)
+    |-- README.md                            # Video demo index with Google Drive links
 ```
 
-> **Note:** This repository contains the academic report PDF. The underlying Python scripts, Excel models, and data files described in the report are not included in this public repository. The full methodology, stock analysis, and results are documented in the report.
+> **Note:** This repository contains the academic report PDF, Python scripts, Excel models, and data files. The full methodology, stock analysis, and results are documented in the report.
 
 ---
 
