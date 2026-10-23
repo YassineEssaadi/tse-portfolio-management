@@ -205,4 +205,4 @@ Team of three — equal academic credit, distinct workstreams.
 
 ---
 
-**Disclaimer:** The portfolio was funded with real capital. Trading was carried out within a supervised academic framework, for educational purposes, and does not constitute investment advice.
+**Remark:** The portfolio was funded with real capital. Trading was carried out within a supervised academic framework, for educational purposes, and does not constitute investment advice.
